@@ -90,7 +90,7 @@ def HEAPSORT_TopMinK(numberlist,k):
         pass
     print(numberlist[:k])
 
-#解法四、快速选择法，利用快去排序的思路，找到第k小的数
+#解法四、快速选择法，利用快速排序的思路，找到第k小的数
 
 def QuickSelct_TopMinK(numberlist,k):
     def QuickSelct(lo,hi):
