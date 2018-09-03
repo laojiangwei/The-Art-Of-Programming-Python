@@ -6,6 +6,8 @@ python code of The-Art-Of-Programming
 ## 第一部分 数据结构
 ### 第一章 字符串
 * 1.6 [字符串的全排列](https://github.com/laojiangwei/The-Art-Of-Programming-Python/blob/master/CalcAllPermutation.py)
+### 第二章 数组
+* 2.1 [寻找最小的 k 个数](https://github.com/laojiangwei/The-Art-Of-Programming-Python/blob/master/TopMinK.py)
 
 ## Reference
 
