@@ -3,8 +3,12 @@
 # @Date: 2018-09-03 14:57:49
 # @Author: Lao Jiangwei
 # @Version : $Id$
-
-
+'''
+题目描述
+输入一个字符串，打印出该字符串中字符的所有排列。
+例如输入字符串abc，则输出由字符a、b、c 所能排列出来的所有字符串
+abc、acb、bac、bca、cab 和 cba。
+'''
 #解法一、递归实现
 #每次从数组中选组一个元素作为排列的第一个元素，然后对剩下的元素进行全排列，如此递归处理，直到得到所有元素的全排列。
 def CalcAllPermutation1(alllist,form,to):
