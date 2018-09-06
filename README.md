@@ -9,6 +9,7 @@ python code of The-Art-Of-Programming
 ### 第二章 数组
 * 2.1 [寻找最小的 k 个数](https://github.com/laojiangwei/The-Art-Of-Programming-Python/blob/master/TopMinK.py)
 * 2.2 [寻找和为定值的两个数](https://github.com/laojiangwei/The-Art-Of-Programming-Python/blob/master/TwoSum.py)
+* 2.3 [寻找和为定值的多个数](https://github.com/laojiangwei/The-Art-Of-Programming-Python/blob/master/SumOfkNumber.py)
 
 ## Reference
 
