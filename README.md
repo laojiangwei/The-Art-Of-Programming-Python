@@ -8,6 +8,7 @@ python code of The-Art-Of-Programming
 * 1.6 [字符串的全排列](https://github.com/laojiangwei/The-Art-Of-Programming-Python/blob/master/CalcAllPermutation.py)
 ### 第二章 数组
 * 2.1 [寻找最小的 k 个数](https://github.com/laojiangwei/The-Art-Of-Programming-Python/blob/master/TopMinK.py)
+* 2.2 [寻找和为定值的两个数](https://github.com/laojiangwei/The-Art-Of-Programming-Python/blob/master/TwoSum.py)
 
 ## Reference
 
