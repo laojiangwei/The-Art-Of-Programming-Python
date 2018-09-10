@@ -33,6 +33,8 @@ def Tricolore(allnumber):
             allnumber[end]=allnumber[current]
             allnumber[current]=temp
             end-=1
+        else:
+            print('exit wrong element')
 
 if __name__ == '__main__':
     allnumber=[0,0,2,2,1,2,0,1,2,2,1,1,0,0,2,1,0,1,0,2]
