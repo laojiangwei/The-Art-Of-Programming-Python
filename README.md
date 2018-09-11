@@ -14,6 +14,7 @@ python code of The-Art-Of-Programming
 * 2.5 [跳台阶问题](https://github.com/laojiangwei/The-Art-Of-Programming-Python/blob/master/ClimbStairs.py)
 * 2.6 [奇偶排序](https://github.com/laojiangwei/The-Art-Of-Programming-Python/blob/master/OddEvenSort.py)
 * 2.7 [荷兰国旗](https://github.com/laojiangwei/The-Art-Of-Programming-Python/blob/master/Tricolore.py)
+* 2.8 [矩阵相乘](https://github.com/laojiangwei/The-Art-Of-Programming-Python/blob/master/MulMatrix.py)
 
 ## Reference
 
